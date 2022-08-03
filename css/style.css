@@ -1,1 +1,121 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+h1{
+  color: #1C3879;
+  font-size: 362.5%;
+  font-family: "Sofia", sans-serif ;
+  line-height: 2;
+  margin-top: 0;
+
+}
+h2{
+  color: #1C3879;
+  font-family: "Playfair Display" , sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+}
+h3{
+  color: #607EAA;
+  font-family: "Playfair Display" , sans-serif;
+}
+p{
+  font-family: "Quicksand" , sans-serif;
+}
+.top_container{
+  background-color:  #F9F5EB;
+  padding-top: 100px;
+  margin: 0;
+}
+.datascience_img{
+  width: 60%;
+}
+hr{
+  width: 8%;
+  border-top: 5px dotted grey;
+  border-bottom: none;
+}
+.middle-container{
+  background-color: #EAE3D2;
+  padding:50px;
+}
+.top_cloud{
+  position: absolute;
+  right:280px;
+  top:50px;
+}
+.bottom_cloud{
+  position: absolute;
+  top:200px;
+}
+.profile_img{
+  border-radius: 80px;
+  width:15%;
+}
+.skill_1{
+  border-radius: 8px;
+  float:left;
+  padding:30px;
+  width:25%;
+}
+.skill_2{
+  border-radius: 8px;
+  float:right;
+  padding:30px;
+  width:25%;
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+.bottom-container{
+  background-color: #F9F5EB;
+  font-family: "Sofia", sans-serif ;
+  margin: 0px auto 0 auto;
+  padding:20px;
+}
+.btn {
+  background: #607EAA;
+  background-image: -webkit-linear-gradient(top, #607EAA, #2980b9);
+  background-image: -moz-linear-gradient(top, #607EAA, #2980b9);
+  background-image: -ms-linear-gradient(top, #607EAA, #2980b9);
+  background-image: -o-linear-gradient(top, #607EAA, #2980b9);
+  background-image: linear-gradient(to bottom, #607EAA, #2980b9);
+  -webkit-border-radius: 25;
+  -moz-border-radius: 25;
+  border-radius: 25px;
+  font-family: Georgia;
+  color: #EAE3D2;
+  line-height: 4;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid #1f628d 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #607EAA;
+  background-image: -webkit-linear-gradient(top, #607EAA, #F9F5EB);
+  background-image: -moz-linear-gradient(top, #607EAA, #F9F5EB);
+  background-image: -ms-linear-gradient(top, #607EAA, #F9F5EB);
+  background-image: -o-linear-gradient(top, #607EAA, #F9F5EB);
+  background-image: linear-gradient(to bottom, #607EAA, #F9F5EB);
+  text-decoration: none;
+}
+a{
+  color:#607EAA;
+  padding:30px;
+  text-decoration: none;
+}
+a:hover{
+  color:black;
+}
+.copyright{
+  color:#1C3879;
+  font-size: 0.75rem;
+  padding:10px;
+}
 
